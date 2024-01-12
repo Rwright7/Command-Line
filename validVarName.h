@@ -3,6 +3,5 @@
 
 #include <stc/cregex.h>
 
-//bool validInput(const cstr *input);
 bool validVarName(const char *s);
 #endif
