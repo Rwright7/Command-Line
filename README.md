@@ -1,8 +1,5 @@
 # Command Line
 
-## Description
-This project is a simple command line-based program written in C that allows users to create and store variables with string values. The program provides a basic interface for user input and variable management.
-
 ## Files
 1. **main1.c**
    - This file contains the main program logic, including setup, the main loop, and the main function.
